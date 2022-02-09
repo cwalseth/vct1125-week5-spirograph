@@ -1,0 +1,246 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container #svg1 {
+  height: 768px;
+  width: 768px;
+  margin-top: -7px;
+}
+
+.container #svg1 .st0 {
+  opacity: 0.25;
+  fill: #fff500;
+}
+
+.container #svg1 .st1 {
+  opacity: 0.25;
+  fill: #f2f500;
+}
+
+.container #svg1 .st2 {
+  opacity: 0.25;
+  fill: #cde600;
+}
+
+.container #svg1 .st3 {
+  opacity: 0.25;
+  fill: #a9e100;
+}
+
+.container #svg1 .st4 {
+  opacity: 0.25;
+  fill: #77e100;
+}
+
+.container #svg1 .st5 {
+  opacity: 0.25;
+  fill: #35bd00;
+}
+
+.container #svg1 .st6 {
+  opacity: 0.25;
+  fill: #0aa200;
+}
+
+.container #svg1 .st7 {
+  opacity: 0.25;
+  fill: #0ab15d;
+}
+
+.container #svg1 .st8 {
+  opacity: 0.25;
+  fill: #0ab197;
+}
+
+.container #svg1 .st9 {
+  opacity: 0.25;
+  fill: #00cdc5;
+}
+
+.container #svg1 .st10 {
+  opacity: 0.25;
+  fill: #00decf;
+}
+
+.container #svg1 .st11 {
+  opacity: 0.25;
+  fill: #00cdd4;
+}
+
+.container #svg1 .st12 {
+  opacity: 0.25;
+  fill: #00c5ed;
+}
+
+.container #svg1 .st13 {
+  opacity: 0.25;
+  fill: #2dace1;
+}
+
+.container #svg1 .st14 {
+  opacity: 0.25;
+  fill: #0081e2;
+}
+
+.container #svg1 .st15 {
+  opacity: 0.25;
+  fill: #0054e3;
+}
+
+.container #svg1 .st16 {
+  opacity: 0.25;
+  fill: #3050b3;
+}
+
+.container #svg1 .st17 {
+  opacity: 0.25;
+  fill: #264687;
+}
+
+.container #svg1 .st18 {
+  opacity: 0.25;
+  fill: #2f357e;
+}
+
+.container #svg1 .st19 {
+  opacity: 0.25;
+  fill: #53357e;
+}
+
+.container #svg1 .st20 {
+  opacity: 0.25;
+  fill: #72217e;
+}
+
+.container #svg1 .st21 {
+  opacity: 0.25;
+  fill: #860062;
+}
+
+.container #svg1 .st22 {
+  opacity: 0.25;
+  fill: #95004e;
+}
+
+.container #svg1 .st23 {
+  opacity: 0.25;
+  fill: #ac0062;
+}
+
+.container #svg1 .st24 {
+  opacity: 0.25;
+  fill: #9d0d42;
+}
+
+.container #svg1 .st25 {
+  opacity: 0.25;
+  fill: #c52b00;
+}
+
+.container #svg1 .st26 {
+  opacity: 0.25;
+  fill: #d90000;
+}
+
+.container #svg1 .st27 {
+  opacity: 0.25;
+  fill: #ff1c00;
+}
+
+.container #svg1 .st28 {
+  opacity: 0.25;
+  fill: #ff3800;
+}
+
+.container #svg1 .st29 {
+  opacity: 0.25;
+  fill: #ff5600;
+}
+
+.container #svg1 .st30 {
+  opacity: 0.25;
+  fill: #ff7900;
+}
+
+.container #svg1 .st31 {
+  opacity: 0.25;
+  fill: #ffa400;
+}
+
+.container #svg1 .st32 {
+  opacity: 0.25;
+  fill: #ffca00;
+}
+
+.container #svg1 .st33 {
+  opacity: 0.25;
+  fill: #ffdc00;
+}
+
+.container #svg1 .st34 {
+  opacity: 0.25;
+  fill: #ffe600;
+}
+
+.container #svg2 .st0 {
+  fill: #BE1E2D;
+}
+
+.container #svg2 .st1 {
+  fill: #EF4136;
+}
+
+.container #svg2 .st2 {
+  fill: #F15A29;
+}
+
+.container #svg2 .st3 {
+  fill: #F9ED32;
+}
+
+.container #svg2 .st4 {
+  fill: #8DC63F;
+}
+
+.container #svg2 .st5 {
+  fill: #39B54A;
+}
+
+.container #svg2 .st6 {
+  fill: #006838;
+}
+
+.container #svg2 .st7 {
+  fill: #00A79D;
+}
+
+.container #svg2 .st8 {
+  fill: #27AAE1;
+}
+
+.container #svg2 .st9 {
+  fill: #662D91;
+}
+
+.container #svg2 .st10 {
+  fill: #9E1F63;
+}
+/*# sourceMappingURL=style.css.map */
